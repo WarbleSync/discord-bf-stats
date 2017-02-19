@@ -16,5 +16,14 @@
   "license": "ISC",
   "dependencies": {
     "battlefield-stats": "^1.0.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarbleSync/discord-bf-stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WarbleSync/discord-bf-stats/issues"
+  },
+  "homepage": "https://github.com/WarbleSync/discord-bf-stats#readme"
 }
