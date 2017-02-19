@@ -1,0 +1,20 @@
+{
+  "name": "discord-bf-stats",
+  "version": "1.0.0",
+  "description": "battlefiled stats module for discordjs bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "discord",
+    "vrk",
+    "battlefield",
+    "stats"
+  ],
+  "author": "WarbleSync",
+  "license": "ISC",
+  "dependencies": {
+    "battlefield-stats": "^1.0.8"
+  }
+}
