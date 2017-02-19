@@ -15,6 +15,7 @@
   "author": "WarbleSync",
   "license": "ISC",
   "dependencies": {
+    "assert": "^1.4.1",
     "battlefield-stats": "^1.0.8"
   },
   "devDependencies": {},
